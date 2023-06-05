@@ -1,0 +1,142 @@
+body
+{
+    margin: 0;    
+    text-align: center; /*witdh harici her şeyi ortalar*/
+    font-family: serif;
+}
+
+h1
+{
+    color: #a081a4;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    line-height: 2;
+}
+
+h2
+{
+    color: #66BFBF;
+    font-size: 2.5rem;
+    font-family: serif;
+    padding-bottom: 10px;
+
+}
+
+h3
+{
+    color: #7acfdc;
+    font-family: serif;
+}
+
+p
+{
+    line-height: 2;
+}
+
+a{
+    color: rgb(77, 139, 126);
+    font-family: serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover
+{
+    color: #EAF6F6;
+}
+
+.top-container
+{
+    background-color: rgb(188, 247, 234);
+    position: relative;
+    padding-top: 200px;
+    padding-bottom: 190px;
+    font-size: 2rem;
+    line-height: 2;
+    color: #9d79a2;  
+    font-weight: 900;
+}
+
+.middle-container
+{
+   margin: 80px 0;
+}
+
+.bottom-container
+{
+   background-color: rgb(188, 247, 234);
+   padding: 40px 0 20px;
+}
+
+.pro
+{
+    text-decoration: underline;
+}
+
+ .bottom-cloud
+ {
+   position: absolute;
+   left: 300px;
+   top: 650px;
+ }
+
+ .top-cloud
+ {
+    position: absolute;
+    right: 300px;
+    top: 60px;
+ }
+
+ .circular
+ {
+    border-radius:50%;
+   
+ }
+
+ hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: rgb(126, 200, 175);
+    border-width: 5px;
+    width: 5%;
+}
+
+.skill-row
+{
+   width: 50%;
+   margin: 100px auto 100px auto;
+   text-align: left;
+}
+
+.code-img
+{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.grad-img
+{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.intro
+{
+    width: 30%;
+    margin: auto;
+}
+
+.contact-me
+{
+    width: 50%;
+    margin: 40px auto 60px;    
+}
+
+.copyright
+{
+    color: #305555;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
